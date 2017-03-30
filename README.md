@@ -1,64 +1,85 @@
-#Developer Manifesto
-> Thoughts on how to live a productive life being a developer
+# Developer Manifesto
+
+Thoughts on how to live a productive life being a developer
+
 ---
 
-#Demand clear objectives
->You can only deliver the best of you, when you know what it is about.
+## Demand clear objectives
 
-#Think first, code later
->Spend considerably more time analyzing the problems at hand and then get your hands dirty.
+You can only deliver the best of you, when you know what it is about.
 
-#Embrace, debate, optimize
->As workflows and approaches to problem-solving change rapidly, have an open mind to something new but do put it under a microscope before fully diving in. Optimize these processes and approaches when possible and give feedback.
+## Think first, code later
 
-#Prototype and explore
->Not all tools are made for all jobs. Prototyping and exploring new ways to approach problems, allows you to compare tools and test concepts before they reach production. Why buy a Ferrari when all you need is a [Lada Niva](http://en.wikipedia.org/wiki/Lada_Niva) ?
+Spend considerably more time analyzing the problems at hand and then get your hands dirty.
 
-#Iterate
+## Embrace, debate, optimize
+
+As workflows and approaches to problem-solving change rapidly, have an open mind to something new but do put it under a microscope before fully diving in. Optimize these processes and approaches when possible and give feedback.
+
+## Prototype and explore
+
+Not all tools are made for all jobs. Prototyping and exploring new ways to approach problems, allows you to compare tools and test concepts before they reach production. Why buy a Ferrari when all you need is a [Lada Niva](http://en.wikipedia.org/wiki/Lada_Niva)?
+
+## Iterate
+
 Taken from [Addy Osmani](http://addyosmani.com/):
->First do it, then do it right, then do it better.
 
-#When given a choice, code slower and with an "extensible" base in mind, rather than coding fast and then tearing it down.
->When applicable, take the time to add some extensibility hooks and defensively code for the future rather than coding "quick and dirty" for the **NOW and HERE**. 
+> First do it, then do it right, then do it better.
 
-    Experience shows that even if you can be fast in developing a solution, you spend considerably more time when asked to alter it.
+## When given a choice, code slower and with an "extensible" base in mind, rather than coding fast and then tearing it down.
 
-#Test test test
->Provide as many as possible testing fixtures for the code / solutions you provide.
+When applicable, take the time to add some extensibility hooks and defensively code for the future rather than coding "quick and dirty" for the **NOW and HERE**. 
 
-    Testing allows you and people not familiar with the project to contribute and optimize while testing a deliverable's expected behaviour.
+Experience shows that even if you can be fast in developing a solution, you spend considerably more time when asked to alter it.
 
-#Ask and answer the why and the how
->There is no `holy` approach or workflow. Even if the team has accepted and is working well with such structures, things are always open to well-intended critique, concept evolution and better alternatives.
+## Test test test
 
-#Choose a workflow for committing and sharing code
->As important as it is to manage versions of your source code, it is equally important to evolve it in a parallel fashion.
+Provide as many as possible testing fixtures for the code / solutions you provide.
 
-    e.g. Producing a feature while at the same time creating a patch for an already live version of the source code.
+Testing allows you and people not familiar with the project to contribute and optimize while testing a deliverable's expected behaviour.
 
-#Document
->Document your code and deliverables – You are not alone and you will probably will not remember in 6 months time.
+## Ask and answer the why and the how
 
-#Edit yourself
->Keep some things for the next iteration cycle. Learn to prioritize what is more important in delivering a Minimum Viable Product.
+There is no *holy* approach or workflow. Even if the team has accepted and is working well with such structures, things are always open to well-intended critique, concept evolution and better alternatives.
 
-#Review and get reviewed
->Friends don't let friends ship without a review.
+## Choose a workflow for committing and sharing code
 
-#Stage often
->Put your deliverables to test in near-production environments. Avoid surprises on the "big day".
+As important as it is to manage versions of your source code, it is equally important to evolve it in a parallel fashion.
 
-#Deploy early
->The more often you put your deliverables out there, the more chances you have to get feedback and proceed with the next iteration.
+E.g. producing a feature while at the same time creating a patch for an already live version of the source code.
 
-#Fail fast
->Failure is not a problem if there are lessons learned. The next iteration should incorporate those lessons and make you a better man.
+## Document
 
-#Be Honest
->Express yourself. Don't be shy. But be polite.
+Document your code and deliverables – You are not alone and you will probably will not remember in 6 months time.
 
-#Don't be afraid to ask
->No man or woman is left behind
+## Edit yourself
 
-#Automate
->How many tentacles shall we grow today Sir? Automation will try to remove the day-to-day burden of repeating, trivial (or not so trivial) tasks that need 0 to little human interaction.
+Keep some things for the next iteration cycle. Learn to prioritize what is more important in delivering a Minimum Viable Product.
+
+## Review and get reviewed
+
+Friends don't let friends ship without a review.
+
+## Stage often
+
+Put your deliverables to test in near-production environments. Avoid surprises on the "big day".
+
+## Deploy early
+
+The more often you put your deliverables out there, the more chances you have to get feedback and proceed with the next iteration.
+
+## Fail fast
+
+Failure is not a problem if there are lessons learned. The next iteration should incorporate those lessons and make you a better man.
+
+## Be honest
+
+Express yourself. Don't be shy. But be polite.
+
+## Don't be afraid to ask
+
+No man or woman is left behind
+
+## Automate
+
+How many tentacles shall we grow today Sir? Automation will try to remove the day-to-day burden of repeating, trivial (or not so trivial) tasks that need 0 to little human interaction.
